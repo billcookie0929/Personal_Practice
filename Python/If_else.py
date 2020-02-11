@@ -4,6 +4,8 @@
 # @Author  : Yupeng Cui  
 # @File    : If_else.py
 
+#题目：按要求判断数。
+
 n = int(input())
 if n%2!=0:
     print("Weird")
