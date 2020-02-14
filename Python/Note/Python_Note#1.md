@@ -18,7 +18,8 @@ Hello World!
 ``` 
 vim键盘图：
 
-![](https://wx1.sinaimg.cn/mw690/005NiAzgly1gbvrh1o4wfj30sg0k342f.jpg)
+![wm.jpg](https://i.loli.net/2020/02/14/wOaGXLum1SlNDMR.jpg)
+
 按i进入插入模式，输入代码：
 
 ```
